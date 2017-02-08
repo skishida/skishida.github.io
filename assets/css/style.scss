@@ -2,5 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-@import "mystyle";
+@import url(https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+
+$header-bg-color: #2c3e50;
+$header-bg-color-secondary: #2980b9;
+
+body {
+  font-family: "Rounded Mplus 1c", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
 
