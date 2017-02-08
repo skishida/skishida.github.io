@@ -11,8 +11,8 @@
 
   * 株式会社スイッチサイエンスにて、アルバイトとして電子工作関係の業務に携わらせていただいています。(2015/8~)
     * 業務内容
-      * ブログ執筆 : [kishida | スイッチサイエンス マガジン](http://mag.switch-science.com/author/kishida/)
-      * 利用ドキュメントの作成 例 : [ESP-WROOM-02 Wi-Fi シールドの使い方 | スイッチサイエンスのおまけ](http://trac.switch-science.com/wiki/ESP-WROOM-02_AT)
+      * ブログ執筆 : [kishida - スイッチサイエンス マガジン](http://mag.switch-science.com/author/kishida/)
+      * 利用ドキュメントの作成 例 : [ESP-WROOM-02 Wi-Fi シールドの使い方 - スイッチサイエンスのおまけ](http://trac.switch-science.com/wiki/ESP-WROOM-02_AT)
       * 他、基板設計など
   
 
