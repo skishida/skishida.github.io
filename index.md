@@ -57,16 +57,20 @@
 ### 2016年
 
 * [ハードウェア] GO飯 のモジュール設計(回路、3Dデータ)
+* [ハードウェア] NTP機能付き6桁表示ニキシー管時計 [→リンク](http://hacklog.jp/works/49588)
+* [Unity] Unityで産総研のSongleAPIから楽曲データを持ってくるやつ [→リンク](https://github.com/skishida/SongleAPI_Unity)
 
 ### 2015年
 
 * [ハードウェア] 大学内で行われたプログラミング教室のハードウェア量産 [→リンク](http://www.uecincu.com/vb/imroom_150719vb.html)
 * [ハードウェア] 大学内で行われたプログラミング教室のハードウェア設計･量産 [→リンク](http://www.uecincu.com/vb/imroom_151031vb68.html) [→リンク](http://www.uecincu.com/vb/imroom_151114pro3.html)
+* [Unity] MMDMechanimを使わないでGoogle CardboardにMMDモデルを表示して踊らせる方法 [→リンク](http://sparks-row.blogspot.jp/2015/12/mmdunitycardboard_27.html)
 
 ### ~2014年
 
-* [ハードウェア] Nintendo64のコントローラー型のMIDI音源内蔵楽器
-* [ハードウェア] コイルガン搭載6足歩行ロボット
+* [ハードウェア] Nintendo64のコントローラー型のMIDI音源内蔵楽器 [→リンク](http://sparks-row.blogspot.jp/2013/05/nintendo64.html)
+* [ハードウェア] コイルガン搭載6足歩行ロボット [→リンク](http://sparks-row.blogspot.jp/2012/04/blog-post.html)
+* [ハードウェア] 6桁表示ニキシー管時計 [→リンク](http://sparks-row.blogspot.jp/2012/09/blog-post.html)
 
   etc
 
