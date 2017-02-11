@@ -16,7 +16,7 @@
 
 ## 経歴
 
-* 2015年 私立麻布高校 卒業
+* 2015年 私立麻布高等学校 卒業
 * 2015年 国立大学法人電気通信大学総合情報学科 入学
 
 ## スキル
@@ -27,6 +27,7 @@
     * 業務内容
       * ブログ執筆 : [kishida - スイッチサイエンス マガジン](http://mag.switch-science.com/author/kishida/)
       * 利用ドキュメントの作成 例 : [ESP-WROOM-02 Wi-Fi シールドの使い方 - スイッチサイエンスのおまけ](http://trac.switch-science.com/wiki/ESP-WROOM-02_AT)
+      * Arduino向けサンプルプログラムの作成 例 : [AQM1248A Simple Library](https://github.com/SWITCHSCIENCE/samplecodes/tree/master/AQM1248A_breakout/Arduino/AQM1248A_lib)
       * 他、基板設計など
   
 
