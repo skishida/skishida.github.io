@@ -100,8 +100,8 @@
 ### ~2014年
 
 * [ハードウェア] Nintendo64のコントローラー型のMIDI音源内蔵楽器 [→リンク](http://sparks-row.blogspot.jp/2013/05/nintendo64.html)
-* [ハードウェア] コイルガン搭載6足歩行ロボット [→リンク](http://sparks-row.blogspot.jp/2012/04/blog-post.html)
-* [ハードウェア] 6桁表示ニキシー管時計 [→リンク](http://sparks-row.blogspot.jp/2012/09/blog-post.html)
+* [ハードウェア]  [コイルガン搭載6足歩行ロボット](./contents/2014/t6.md)
+* [ハードウェア]  [6桁表示ニキシー管時計](./contents/2014/nixie.md)
 
   etc
 
