@@ -66,7 +66,7 @@
 ### 2016年
 * [ハッカソン] HackU 2016 東京会場
 
-  UEC InSilico として参加。ハードウェア担当。ご飯レコメンドアプリ｢[GO飯](./contents/2016/nixie.md)｣にて｢最優秀賞｣｢HappyHacking賞｣受賞。
+  UEC InSilico として参加。ハードウェア担当。ご飯レコメンドアプリ｢[GO飯](./contents/2016/go.md)｣にて｢最優秀賞｣｢HappyHacking賞｣受賞。
 
   ![](./img/hacku2016.jpg)
 
@@ -85,8 +85,8 @@
 
 ### 2016年
 
-* [ハードウェア]  [GO飯](./contents/2016/nixie.md) のモジュール設計
-* [ハードウェア]  [GO飯](./contents/2016/nixie.md) のモジュール改良版
+* [ハードウェア]  [GO飯](./contents/2016/go.md) のモジュール設計
+* [ハードウェア]  [GO飯](./contents/2016/go.md) のモジュール改良版
 * [ハードウェア]  [NTP機能付き6桁表示ニキシー管時計](./contents/2016/nixie.md)
 * [ハードウェア]  [サーバーからドットマトリクスの表示やサーボモータを制御できるロボット｢Silex｣](./contents/2016/silex.md)
 * [Unity]  [Unityで産総研のSongleAPIから楽曲データを持ってくるやつ](https://github.com/skishida/SongleAPI_Unity)
