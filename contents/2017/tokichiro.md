@@ -22,6 +22,7 @@ description: IoTハンガー
 ### Activity
 
   * HackDay 2017 学生部門 最優秀賞 受賞
+  ![](./img/hackday2017.jpg)
 
 ### Technique
 

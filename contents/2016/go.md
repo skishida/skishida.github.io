@@ -25,6 +25,7 @@ description: エンタテインメント的ご飯レコメンドアプリ
 ### Activity
 
   * HackU 2016 東京会場 最優秀賞&HappyHacking賞受賞
+  ![](./img/hacku2016.jpg)
 
 ### Technique
 
