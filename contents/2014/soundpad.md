@@ -27,6 +27,10 @@ description: コントローラー型電子楽器
   * PIC 16F1938
   * VS1053b (midi mode)
 
+### Activity
+
+  2013年5月 文化祭にて展示
+
 ### Related Links
 
 * [Old Blog](http://sparks-row.blogspot.jp/2013/05/nintendo64.html)

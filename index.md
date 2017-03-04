@@ -57,16 +57,16 @@
 ### 2017年
 * [ハッカソン] HackDay 2017
 
-  UEC InSilico として参加。ハードウェア担当。IoTハンガー｢TOKICHIRO｣にて｢学生部門最優秀賞｣受賞。
+  UEC InSilico として参加、[Tokichiro](./contents/2017/tokichiro.md)を開発。ハードウェア担当。IoTハンガー｢TOKICHIRO｣にて｢学生部門最優秀賞｣受賞。
 
   ![](./img/hackday2017.jpg)
 
   * 画像 : [日本最大級のハッカソン「Yahoo! JAPAN Hack Day 2017」、最優秀賞はレゴブロックで作った迷路がVRでゲーム体験できるチーム名：アルカナラボの「まよいの墓」に決定！](https://prtimes.jp/main/html/rd/p/000000034.000014803.html)
 
 ### 2016年
-* [ハッカソン] HackU 2016 東京開場
+* [ハッカソン] HackU 2016 東京会場
 
-  UEC InSilico として参加。ハードウェア担当。ご飯レコメンドアプリ｢GO飯｣にて｢最優秀賞｣｢HappyHacking賞｣受賞。
+  UEC InSilico として参加、[GO飯](./contents/2016/nixie.md)を開発。ハードウェア担当。ご飯レコメンドアプリ｢GO飯｣にて｢最優秀賞｣｢HappyHacking賞｣受賞。
 
   ![](./img/hacku2016.jpg)
 
@@ -85,17 +85,17 @@
 
 ### 2016年
 
-* [ハードウェア] GO飯 のモジュール設計(回路、3Dデータ)
-* [ハードウェア] GO飯 のモジュール改良版(電源レスで無数の信号パターンを生成可能)
-* [ハードウェア] NTP機能付き6桁表示ニキシー管時計 [→リンク](http://hacklog.jp/works/49588)
-* [ハードウェア] サーバーからドットマトリクスの表示やサーボモータを制御できるロボット｢Silex｣ [→動画](https://goo.gl/photos/v4ro8TSCPVcXfvjL6)
-* [Unity] Unityで産総研のSongleAPIから楽曲データを持ってくるやつ [→リンク](https://github.com/skishida/SongleAPI_Unity)
+* [ハードウェア]  [GO飯](./contents/2016/nixie.md) のモジュール設計
+* [ハードウェア]  [GO飯](./contents/2016/nixie.md) のモジュール改良版
+* [ハードウェア]  [NTP機能付き6桁表示ニキシー管時計](./contents/2016/nixie.md)
+* [ハードウェア]  [サーバーからドットマトリクスの表示やサーボモータを制御できるロボット｢Silex｣](./contents/2016/silex.md)
+* [Unity]  [Unityで産総研のSongleAPIから楽曲データを持ってくるやつ](https://github.com/skishida/SongleAPI_Unity)
 
 ### 2015年
 
-* [ハードウェア] [大学内で行われたプログラミング教室のハードウェア量産](./contents/2015/pg1.md)
-* [ハードウェア] 大学内で行われたプログラミング教室のハードウェア設計･量産 [→リンク](http://www.uecincu.com/vb/imroom_151031vb68.html) [→リンク](http://www.uecincu.com/vb/imroom_151114pro3.html)
-* [Unity] MMDMechanimを使わないでGoogle CardboardにMMDモデルを表示して踊らせる方法 [→リンク](http://sparks-row.blogspot.jp/2015/12/mmdunitycardboard_27.html)
+* [ハードウェア]  [大学内で行われたプログラミング教室のハードウェア量産](./contents/2015/pg1.md)
+* [ハードウェア]  [大学内で行われたプログラミング教室のハードウェア設計･量産](./contents/2015/pg1.md)
+* [Unity]  [MMDMechanimを使わないでGoogle CardboardにMMDモデルを表示して踊らせる方法](http://sparks-row.blogspot.jp/2015/12/mmdunitycardboard_27.html)
 
 ### ~2014年
 
