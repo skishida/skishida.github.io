@@ -25,4 +25,4 @@ description: 自作ニキシー管時計
 
   * [Old Blog](http://sparks-row.blogspot.jp/2012/09/blog-post.html)
 
-[back](./)
+[back](/)
