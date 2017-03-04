@@ -1,9 +1,9 @@
 ---
 layout: default
-tile: Tokichirp
+tile: Tokichiro
 description: IoTハンガー
 ---
-# GO飯
+# Tokichiro
 
   IoTハンガー。服をかけるだけで保温性を測定、行きたい場所をアプリに話しかけると適切な服を選びハンガーラックの中央に提示。
 
