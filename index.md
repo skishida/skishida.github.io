@@ -81,7 +81,7 @@
 
 ### 2017年
 
-* [ハードウェア] Tokichiro の回路設計
+* [ハードウェア] [Tokichiro](./contents/2017/tokichiro.md) の回路設計
 
 ### 2016年
 
