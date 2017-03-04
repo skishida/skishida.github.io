@@ -93,7 +93,7 @@
 
 ### 2015年
 
-* [ハードウェア] 大学内で行われたプログラミング教室のハードウェア量産 [→リンク](http://www.uecincu.com/vb/imroom_150719vb.html)
+* [ハードウェア] [大学内で行われたプログラミング教室のハードウェア量産](./contents/2015/pg1.md)
 * [ハードウェア] 大学内で行われたプログラミング教室のハードウェア設計･量産 [→リンク](http://www.uecincu.com/vb/imroom_151031vb68.html) [→リンク](http://www.uecincu.com/vb/imroom_151114pro3.html)
 * [Unity] MMDMechanimを使わないでGoogle CardboardにMMDモデルを表示して踊らせる方法 [→リンク](http://sparks-row.blogspot.jp/2015/12/mmdunitycardboard_27.html)
 

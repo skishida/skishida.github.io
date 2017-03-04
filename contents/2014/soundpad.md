@@ -10,7 +10,6 @@ description: コントローラー型電子楽器
 ### Gallery
 
   ![](/img/2014/sp.jpg)
-  ![](/img/2014/t62.jpg)
 
 ### Description
 
