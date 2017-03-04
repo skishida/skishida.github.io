@@ -9,8 +9,8 @@ WEBから物理世界に干渉するための卓上ロボットAPI
 
 ### Gallery
 
-  ![](/img/2014/sx.jpg)
-  ![](/img/2014/sx2.jpg)
+  ![](/img/2016/sx.jpg)
+  ![](/img/2016/sx2.jpg)
 
 ### Description
 

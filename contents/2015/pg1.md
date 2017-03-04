@@ -22,7 +22,7 @@ description: 初学者向けプログラミング用教材
 ### Technique
 
   * Arduino Pro mini
-  * ADX345
+  * ADXL345
   * 2 x Full Color LED
 
 ### Activity
