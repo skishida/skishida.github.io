@@ -94,7 +94,7 @@
 ### 2015年
 
 * [ハードウェア]  [大学内で行われたプログラミング教室のハードウェア量産](./contents/2015/pg1.md)
-* [ハードウェア]  [大学内で行われたプログラミング教室のハードウェア設計･量産](./contents/2015/pg1.md)
+* [ハードウェア]  [大学内で行われたプログラミング教室のハードウェア設計･量産](./contents/2015/pg2.md)
 * [Unity]  [MMDMechanimを使わないでGoogle CardboardにMMDモデルを表示して踊らせる方法](http://sparks-row.blogspot.jp/2015/12/mmdunitycardboard_27.html)
 
 ### ~2014年
