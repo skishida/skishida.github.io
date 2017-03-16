@@ -25,7 +25,7 @@ description: エンタテインメント的ご飯レコメンドアプリ
 ### Activity
 
   * HackU 2016 東京会場 最優秀賞&HappyHacking賞受賞
-  ![](./img/hacku2016.jpg)
+  ![](/img/hacku2016.jpg)
 
 ### Technique
 
@@ -41,5 +41,6 @@ description: エンタテインメント的ご飯レコメンドアプリ
   * [大会公式ページ](http://hacku.yahoo.co.jp/hacku2016tokyo/)
   * [Youtube](https://www.youtube.com/watch?v=Qw8RM3EnBvM&feature=youtu.be&t=31m)
   * [日本最大級の学生向けアプリ・IoT開発イベント「Yahoo! JAPAN Hack U 2016」東京会場予選の最優秀賞は“自動”で行くべき飯屋を決めてくれるアプリ「GO飯」に決定！ - PR Times](https://prtimes.jp/main/html/rd/p/000000019.000014803.html)
+  * [電通大学生チームがHack U 2016東京会場にて最優秀賞を受賞 - 電気通信大学ホームページ](http://www.uec.ac.jp/news/prize/2016/20161013-1.html)
 
 [back](/)
