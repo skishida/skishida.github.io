@@ -28,4 +28,6 @@ description: Java3Dを利用した3Dゲーム
 
 ### Related Links
 
+  * [Github repository](https://github.com/h-otter/jone9) 
+
 [back](/)
