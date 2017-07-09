@@ -69,11 +69,14 @@
 
   赤外線LEDマーカーユニットの製作
 
+## 参加
+
 ## 製作物
 
 ### 2017年
 
 * [ハードウェア] [Tokichiro](./contents/2017/tokichiro.md) の回路設計
+* [ソフトウェア] [Java3Dゲーム](./contents/2017/java3d,md)
 
 ### 2016年
 
@@ -94,6 +97,7 @@
 * [ハードウェア]  [Nintendo64のコントローラー型のMIDI音源内蔵楽器](./contents/2014/soundpad.md)
 * [ハードウェア]  [コイルガン搭載6足歩行ロボット](./contents/2014/t6.md)
 * [ハードウェア]  [6桁表示ニキシー管時計](./contents/2014/nixie.md)
+* [ハードウェア]  [ロジックICのみを利用したゲーム](.contents/2014/logicgame.md)
 
   etc
 
