@@ -55,6 +55,10 @@
 
   * 画像 : [日本最大級のハッカソン「Yahoo! JAPAN Hack Day 2017」、最優秀賞はレゴブロックで作った迷路がVRでゲーム体験できるチーム名：アルカナラボの「まよいの墓」に決定！](https://prtimes.jp/main/html/rd/p/000000034.000014803.html)
 
+* [作品コンテスト] ROHM OPEN HACK CHALLENGE 2017
+
+  チーム名 SPORADIC-E として一人参加。[マガジンラック×IoTのアイディア]((./contents/2017/rohc.md)で特別賞受賞。
+
 ### 2016年
 * [ハッカソン] HackU 2016 東京会場
 
@@ -77,6 +81,8 @@
 
 ### 2017年
 
+* [ハードウェア] [EnOceanを用いたフリーマガジンのラック内在庫量の把握](./contents/2017/rohc.md)
+* [ハードウェア] ブレッドボードで利用できる充電機能付き電源基板
 * [ハードウェア] [Tokichiro](./contents/2017/tokichiro.md) の回路設計
 * [ソフトウェア] [Java3Dゲーム](./contents/2017/java3d.md)
 

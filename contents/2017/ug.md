@@ -1,6 +1,6 @@
 # 無重力体験メモ
 
-[ハッカソン](./contents/2017/tokichiro.md)で受賞し、[これ](https://www.jsforum.or.jp/other/zerog.html)に乗って無重力を体験することができたので実際それはどんな感じなのかというメモ
+[ハッカソン](./tokichiro.md)で受賞し、[これ](https://www.jsforum.or.jp/other/zerog.html)に乗って無重力を体験することができたので実際それはどんな感じなのかというメモ
 
   ![](/img/2017/uG-ap.jpg)
   ![](/img/2017/uG.jpg)
