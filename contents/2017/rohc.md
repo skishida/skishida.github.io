@@ -9,8 +9,8 @@ description: 電源レスで重量データを飛ばすセンサノードの開�
 
 ### Gallery
 
-  ![/img/2017/rohc_award.jpg]()
-  ![/img/2017/rohc_cj.jpg]()
+  ![](/img/2017/rohc_award.jpg)
+  ![](/img/2017/rohc_cj.jpg)
 
   ※画像一部ローム株式会社様ご提供
 
