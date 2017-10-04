@@ -57,7 +57,7 @@
 
 * [作品コンテスト] ROHM OPEN HACK CHALLENGE 2017
 
-  チーム名 SPORADIC-E として一人参加。[マガジンラック×IoTのアイディア]((./contents/2017/rohc.md)で特別賞受賞。
+  チーム名 SPORADIC-E として一人参加。[マガジンラック×IoTのアイディア](./contents/2017/rohc.md)で特別賞受賞。
 
 ### 2016年
 * [ハッカソン] HackU 2016 東京会場

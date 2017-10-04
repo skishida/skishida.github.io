@@ -9,6 +9,11 @@ description: 電源レスで重量データを飛ばすセンサノードの開�
 
 ### Gallery
 
+  ![/img/2017/rohc_award.jpg]
+  ![/img/2017/rohc_cj.jpg]
+
+  ※画像一部ローム株式会社様ご提供
+
 ### Description
 
   現在、駅や店舗に設置されているフリーマガジンのホスティングラックは、定期的に配達員が補充を行う等の手間をかけて在庫量･流通量の把握を行っている。これにより、マーケティングにより活用可能な｢誰が｣や｢何時頃｣｢ラックのどの位置で｣といった詳細な情報を取得できない、配布量の厳密なコントロールができない等の問題が存在する。
@@ -44,5 +49,7 @@ description: 電源レスで重量データを飛ばすセンサノードの開�
 ### Related Links
 
   * [ROHM OPEN HACK CHALLENGE 2017](http://open.rohm.com/rohmhack/) 
+  * [白熱のROHM OPEN HACK CHALLENGE 2017 最終審査イベントレポート - ROHM OPEN SOLUTIONS](http://open.rohm.com/jp/events/171005_article)
+  * [CEATEC 2017 - センサと無線のコラボで新たなソリューションを創出するローム - エキサイトニュース(3/3) ](http://www.excite.co.jp/News/it_biz/20171003/Cobs_1676261.html)
 
 [back](/)
