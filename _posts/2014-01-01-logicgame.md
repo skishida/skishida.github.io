@@ -1,7 +1,11 @@
 ---
-layout: default
-tile: ロジックICを利用したゲーム
-description: LEDマトリックス上で実行されるゲーム
+layout: post
+date: 2014-01-01
+tile: "ロジックICを利用したゲーム"
+description: "LEDマトリックス上で実行されるゲーム"
+feature: /assets/img/2014/logicgame.jpg
+tags: [Hardware, Circuit, LogicIC]
+comments: true
 ---
 # ロジックICを利用したゲーム
 
@@ -9,7 +13,7 @@ description: LEDマトリックス上で実行されるゲーム
 
 ### Gallery
 
-  ![](/img/2014/logicgame.jpg)
+  ![](/assets/img/2014/logicgame.jpg)
 
   画像はイメージです
 
@@ -24,5 +28,3 @@ description: LEDマトリックス上で実行されるゲーム
 ### Related Links
 
   * [麻布学園物理部無線班](http://butumu.com/)
-
-[back](/)
