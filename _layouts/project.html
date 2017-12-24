@@ -24,17 +24,28 @@ layout: compress
                 <div class="post-list">
                     {% for post in site.posts %} 
                         {% if post.project %}
-                    <ul>
-                        <li class="wow fadeIn" data-wow-duration="1.5s">
-                            <hr>
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            on {{ post.date | date_to_string}}
-                            <p>{{ post.excerpt }}</p>
-
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn" text-align="right">Read More</a>
-                        </li>
-                    </ul>
-                      {% endif %}
+                            {% if post.url_force == null %}
+                            <ul>
+                                <li class="wow fadeIn" data-wow-duration="1.5s">
+                                    <hr>
+                                    <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                    on {{ post.date | date_to_string}}
+                                    <p>{{ post.excerpt }}</p>
+                                    <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn" text-align="right">Read More</a>
+                                </li>
+                            </ul>
+                            {% else %}
+                            <ul>
+                                <li class="wow fadeIn" data-wow-duration="1.5s">
+                                    <hr>
+                                    <a class="zoombtn" href="{{ post.url_force }}">{{ post.title }}</a>
+                                    on {{ post.date | date_to_string}}
+                                    <p>{{ post.excerpt }}</p>
+                                    <a href="{{post.url_force }}" class="btn zoombtn" text-align="right">Read More on external link </a>
+                                </li>
+                            </ul>
+                            {% endif %}
+                        {% endif %}
                     {% endfor %}
                 </div>
             </div>
