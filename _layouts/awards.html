@@ -23,13 +23,13 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
-                        {% if post.project == null %}
+                        {% if post.achievements != null %}
                     <ul>
-                        <li class="wow fadeIn" data-wow-duration="1.5s" background={{post.feature}}>
+                        <li class="wow fadeInUp" data-wow-duration="1.5s">
                             <hr>
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            on {{ post.date | date_to_string}}
                             <p>{{ post.excerpt }}</p>
+                            <p>{{ post.achievements}}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>

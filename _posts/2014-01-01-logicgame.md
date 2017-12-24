@@ -1,8 +1,9 @@
 ---
 layout: post
+project: yes
 date: 2014-01-01
-tile: "ロジックICを利用したゲーム"
-description: "LEDマトリックス上で実行されるゲーム"
+title: "ロジックICを利用したゲーム"
+excerpt: "LEDマトリックス上で実行されるゲーム"
 feature: /assets/img/2014/logicgame.jpg
 tags: [Hardware, Circuit, LogicIC]
 comments: true
@@ -13,9 +14,11 @@ comments: true
 
 ### Gallery
 
-  ![](/assets/img/2014/logicgame.jpg)
+{% capture images %}
+  /assets/img/2014/logicgame.jpg
+{% endcapture %}
+{% include gallery images=images caption="画像はイメージです" cols=1%}
 
-  画像はイメージです
 
 ### Description
 

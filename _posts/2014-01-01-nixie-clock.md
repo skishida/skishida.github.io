@@ -1,10 +1,11 @@
 ---
 layout: post
-tile: "6桁表示ニキシー管時計"
-description: "自作ニキシー管時計"
+project: yes
+title: "6桁表示ニキシー管時計"
+excerpt: "自作ニキシー管時計"
 date: 2014-01-01
 feature: /assets/img/2014/nixie.jpg
-tags: [Hardware, Nixietube]
+tags: [Hardware, Nixie Tube]
 comments: true
 ---
 # 6桁表示ニキシー管時計
@@ -13,8 +14,12 @@ comments: true
 
 ### Gallery
 
-  ![](/assets/img/2014/nixie.jpg)
-  ![](/assets/img/2014/nixie2.jpg)
+
+{% capture images %}
+  /assets/img/2014/nixie.jpg
+  /assets/img/2014/nixie2.jpg
+{% endcapture %}
+{% include gallery images=images  cols=2%}
 
 ### Description
 

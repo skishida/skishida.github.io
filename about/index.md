@@ -15,12 +15,11 @@ comments: false
 
 ### 電子工作
 
-  * 株式会社スイッチサイエンスにて、アルバイトとして電子工作関係の業務に携わらせていただいています。(2015/8~)
-    * 業務内容
-      * ブログ執筆 : [kishida - スイッチサイエンス マガジン](http://mag.switch-science.com/author/kishida/)
-      * 利用ドキュメントの作成 例 : [ESP-WROOM-02 Wi-Fi シールドの使い方 - スイッチサイエンスのおまけ](http://trac.switch-science.com/wiki/ESP-WROOM-02_AT)
-      * Arduino向けサンプルプログラムの作成 例 : [AQM1248A Simple Library](https://github.com/SWITCHSCIENCE/samplecodes/tree/master/AQM1248A_breakout/Arduino/AQM1248A_lib)
-      * 他、基板設計など
+* 株式会社スイッチサイエンスにてアルバイト(2015/8~)
+  * ブログ執筆 : [kishida - スイッチサイエンス マガジン](http://mag.switch-science.com/author/kishida/)
+  * 利用ドキュメントの作成 例 : [ESP-WROOM-02 Wi-Fi シールドの使い方 - スイッチサイエンスのおまけ](http://trac.switch-science.com/wiki/ESP-WROOM-02_AT)
+  * Arduino向けサンプルプログラムの作成 例 : [AQM1248A Simple Library](https://github.com/SWITCHSCIENCE/samplecodes/tree/master/AQM1248A_breakout/Arduino/AQM1248A_lib)
+  * 他、基板設計など
   
 
 ## 趣味
@@ -44,34 +43,20 @@ comments: false
   色や構図などお絵かきでの表現の幅が広がればいいなぁと夢見て最近はじめました。
 
 
-## 業績
+## [業績](/achievements)
 
-### 2017年
-
-* [ハッカソン] HackDay 2017
-
-  UEC InSilico として参加。ハードウェア担当。IoTハンガー｢[TOKICHIRO](./contents/2017/tokichiro.md)｣にて｢学生部門最優秀賞｣受賞。
-
-  ![](./img/hackday2017.jpg)
-
-  * 画像 : [日本最大級のハッカソン「Yahoo! JAPAN Hack Day 2017」、最優秀賞はレゴブロックで作った迷路がVRでゲーム体験できるチーム名：アルカナラボの「まよいの墓」に決定！](https://prtimes.jp/main/html/rd/p/000000034.000014803.html)
-
-* [作品コンテスト] ROHM OPEN HACK CHALLENGE 2017
-
-  チーム名 SPORADIC-E として一人参加。[マガジンラック×IoTのアイディア](./contents/2017/rohc.md)で特別賞受賞。
-
-### 2016年
-
-* [ハッカソン] HackU 2016 東京会場
-
-  UEC InSilico として参加。ハードウェア担当。ご飯レコメンドアプリ｢[GO飯](./contents/2016/go.md)｣にて｢最優秀賞｣｢HappyHacking賞｣受賞。
-
-  ![](./img/hacku2016.jpg)
-
-  * 画像 : [日本最大級の学生向けアプリ・IoT開発イベント「Yahoo! JAPAN Hack U 2016」東京会場予選の最優秀賞は“自動”で行くべき飯屋を決めてくれるアプリ「GO飯」に決定！ ](https://prtimes.jp/main/html/rd/p/000000019.000014803.html)
-
-### 2015年
-
-* [研究(第三著者)] [ドローンによるインタラクティブサーフェス環境の拡張](http://www.wiss.org/WISS2015Proceedings/demo/3-R23.pdf),WISS2015
-
-  赤外線LEDマーカーユニットの製作
+<div class="post-list">
+  {% for post in site.posts %} 
+      {% if post.achievements != null %}
+  <ul>
+      <li>
+          <hr>
+          <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+          <p>{{ post.excerpt }}</p>
+          <p>{{ post.achievements}}</p>
+          <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+      </li>
+  </ul>
+      {% endif %}
+  {% endfor %}
+</div>
