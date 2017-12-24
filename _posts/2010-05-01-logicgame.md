@@ -1,7 +1,7 @@
 ---
 layout: post
 project: yes
-date: 2014-01-01
+date: 2010-01-01
 title: "ロジックICを利用したゲーム"
 excerpt: "LEDマトリックス上で実行されるゲーム"
 feature: /assets/img/2014/logicgame.jpg
@@ -26,8 +26,15 @@ comments: true
 
 ### Technique
 
-  * 7400 series Logic IC * 60~100 pcs
+* 7400 series Logic IC * 60~100 pcs
+
+
+### Activity
+
+  * 2010年5月 文化祭にて展示
+  * 2011年 後輩の回路設計
+
 
 ### Related Links
 
-  * [麻布学園物理部無線班](http://butumu.com/)
+* [麻布学園物理部無線班](http://butumu.com/)
