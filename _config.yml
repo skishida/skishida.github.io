@@ -3,7 +3,7 @@ remote_theme: TaylanTatli/Moon
 
 # Site
 title:              skishida works
-bio:                '情報技術が日常に溶け込むと世界はもっと便利で面白くなるでしょう?'
+bio:                '情報技術が日常に溶け込むと世界はもっと便利で面白くなるでしょう'
 description:        "About me and my works"
 reading_time:       true
 words_per_minute:   200
