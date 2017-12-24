@@ -1,6 +1,10 @@
-# Shoki Kishida
-
-![](./img/icon.jpg)
+---
+layout: page
+title: About shoki kishida
+tags: [about]
+date: 2017-12-24
+comments: false
+---
 
 ## About me
 
@@ -47,6 +51,7 @@
 ## 業績
 
 ### 2017年
+
 * [ハッカソン] HackDay 2017
 
   UEC InSilico として参加。ハードウェア担当。IoTハンガー｢[TOKICHIRO](./contents/2017/tokichiro.md)｣にて｢学生部門最優秀賞｣受賞。
@@ -60,6 +65,7 @@
   チーム名 SPORADIC-E として一人参加。[マガジンラック×IoTのアイディア](./contents/2017/rohc.md)で特別賞受賞。
 
 ### 2016年
+
 * [ハッカソン] HackU 2016 東京会場
 
   UEC InSilico として参加。ハードウェア担当。ご飯レコメンドアプリ｢[GO飯](./contents/2016/go.md)｣にて｢最優秀賞｣｢HappyHacking賞｣受賞。
@@ -69,51 +75,7 @@
   * 画像 : [日本最大級の学生向けアプリ・IoT開発イベント「Yahoo! JAPAN Hack U 2016」東京会場予選の最優秀賞は“自動”で行くべき飯屋を決めてくれるアプリ「GO飯」に決定！ ](https://prtimes.jp/main/html/rd/p/000000019.000014803.html)
 
 ### 2015年
+
 * [研究(第三著者)] [ドローンによるインタラクティブサーフェス環境の拡張](http://www.wiss.org/WISS2015Proceedings/demo/3-R23.pdf),WISS2015
 
   赤外線LEDマーカーユニットの製作
-
-## 参加等
-
-* セキュリティ・キャンプ全国大会2017 (参加者)
-* セキュリティ・ミニキャンプ in 東北 2017 (チューター)
-
-## 製作物
-
-### 2017年
-
-* [ハードウェア] [EnOceanを用いたフリーマガジンのラック内在庫量の把握](./contents/2017/rohc.md)
-* [ハードウェア] ブレッドボードで利用できる充電機能付き電源基板
-* [ハードウェア] [Tokichiro](./contents/2017/tokichiro.md) の回路設計
-* [ソフトウェア] [Java3Dゲーム](./contents/2017/java3d.md)
-
-### 2016年
-
-* [ハードウェア]  [GO飯](./contents/2016/go.md) のモジュール設計
-* [ハードウェア]  [GO飯](./contents/2016/go.md) のモジュール改良版
-* [ハードウェア]  [NTP機能付き6桁表示ニキシー管時計](./contents/2016/nixie.md)
-* [ハードウェア]  [サーバーからドットマトリクスの表示やサーボモータを制御できるロボット｢Silex｣](./contents/2016/silex.md)
-* [Unity]  [Unityで産総研のSongleAPIから楽曲データを持ってくるやつ](https://github.com/skishida/SongleAPI_Unity)
-
-### 2015年
-
-* [ハードウェア]  [大学内で行われたプログラミング教室のハードウェア量産](./contents/2015/pg1.md)
-* [ハードウェア]  [大学内で行われたプログラミング教室のハードウェア設計･量産](./contents/2015/pg2.md)
-* [Unity]  [MMDMechanimを使わないでGoogle CardboardにMMDモデルを表示して踊らせる方法](http://sparks-row.blogspot.jp/2015/12/mmdunitycardboard_27.html)
-
-### ~2014年
-
-* [ハードウェア]  [Nintendo64のコントローラー型のMIDI音源内蔵楽器](./contents/2014/soundpad.md)
-* [ハードウェア]  [コイルガン搭載6足歩行ロボット](./contents/2014/t6.md)
-* [ハードウェア]  [6桁表示ニキシー管時計](./contents/2014/nixie.md)
-* [ハードウェア]  [ロジックICのみを利用したゲーム](./contents/2014/logicgame.md)
-
-  etc
-
-## その他
-
-* 2017年5月 [無重力体験メモ](./contents/2017/ug.md)
-
-## 連絡先
-
-* [contact to skishida](https://goo.gl/forms/dEZeub07DOTRuMre2)
