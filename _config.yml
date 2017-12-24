@@ -3,8 +3,8 @@ remote_theme: TaylanTatli/Moon
 
 # Site
 title:              skishida works
-bio:                'bio'
-description:        "description"
+bio:                '情報技術が日常に溶け込むと世界はもっと便利で面白くなるでしょう?'
+description:        "About me and my works"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -42,7 +42,7 @@ google:
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           shoki.kishda
+facebook:           shoki.kishida
 github-url:         skishida
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
