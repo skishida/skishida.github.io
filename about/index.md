@@ -58,8 +58,7 @@ comments: false
   {% for post in site.posts %} 
       {% if post.achievements != null %}
   <ul>
-      <li>
-          <hr>
+      <li style="background-image: url( {{post.feature}} ); ">
           <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
           <p>{{ post.excerpt }}</p>
           <p>{{ post.achievements}}</p>
