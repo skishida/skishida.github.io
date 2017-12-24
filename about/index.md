@@ -26,22 +26,31 @@ comments: false
 
 ### 電子工作
 
-  ![](./img/board.jpg)
 
-  自分が思った動作を現実世界に落とし込むことができる楽しさを求めて続けています。中高校時代はロボット等を作る部活で部長を務めました。
+{% capture images %}
+  /assets/img/board.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 %}
+
+手を動かすの楽しいですよね。
 
 ### お絵かき
 
-  ![](./img/nenga2017.jpg)
+{% capture images %}
+  /assets/img/nenga2017.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 %}
 
-  上手い人はいくらでもいますが、自分の頭の中の絵は自分でしか描けないと思っているので、地道にやっています。
+思い描いているものを実現できるっていいですよね。
 
 ### 写真
 
-  ![](./img/photo.jpg)
+{% capture images %}
+  /assets/img/photo.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 %}
 
-  色や構図などお絵かきでの表現の幅が広がればいいなぁと夢見て最近はじめました。
-
+美しさってなんなのでしょうね。
 
 ## [業績](/achievements)
 
