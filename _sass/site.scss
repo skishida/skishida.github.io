@@ -19,10 +19,10 @@ body {
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
-	@media #{$small} {
-	    background-image: none !important;
-		background: $white;
-	}
+	// @media #{$small} {
+	//     background-image: none !important;
+	// 	background: $white;
+	// }
 }
 * {
 	box-sizing: border-box;
@@ -75,7 +75,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
+	background-color: rgba($white, 0.9);
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -83,6 +83,7 @@ body {
 	@include transition(.5s);
 	@media #{$small} {
 		width: 100%;
+		height: 100%;
 	    box-shadow: none;
 	}
 	@media #{$medium} {
@@ -97,6 +98,7 @@ body {
 	    margin-bottom: 5px;
 	}
 	@media #{$small} {
+		margin-top: 0px;
 		padding: 0 1em;
 	}
 }

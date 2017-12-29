@@ -5,7 +5,8 @@ title: EnOceanを用いたフリーマガジンのラック内在庫量の把握
 excerpt: 電源レスで重量データを飛ばすセンサノードの開発
 achievements: "ROHM OPEN HACK CHALLENGE 2017 特別賞受賞"
 tags: [Hardware, IoT, EnOcean, Award, "8051", uVision]
-feature: /assets/img/2017/rohc_award.jpg
+achieve_image: /assets/img/2017/rohc_award.jpg
+feature: /assets/img/2017/rohc_cj.jpg
 comments: true
 ---
 # EnOceanを用いたフリーマガジンのラック内在庫量の把握

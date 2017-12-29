@@ -4,7 +4,8 @@ project: yes
 title: Tokichiro
 excerpt: 適切な保温性の服をレコメンドするIoTハンガー
 achievements: "HackDay 2017 学生部門 最優秀賞 受賞"
-feature: "/assets/img/hackday2017.jpg"
+achieve_image: /assets/img/hackday2017.jpg
+feature: "/assets/img/2017/to.jpg"
 tags: [Hardware, IoT, ESP-WROOM-02, Award, Arduino]
 comments: true
 ---
