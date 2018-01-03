@@ -37,7 +37,7 @@ comments: false
 ### お絵かき
 
 {% capture images %}
-  /assets/img/nenga2017.jpg
+  /assets/img/nenga2018.jpg
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
