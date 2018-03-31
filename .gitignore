@@ -4,3 +4,4 @@ vendor
 _site/
 Gemfile
 Gemfile.lock
+.vs/
