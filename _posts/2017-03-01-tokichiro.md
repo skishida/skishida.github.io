@@ -32,6 +32,7 @@ comments: true
 ### Activity
 
 * HackDay 2017 学生部門 最優秀賞 受賞
+* 平成28年度 電気通信大学 学生表彰 受賞
 
 {% capture images %}
  /assets/img/hackday2017.jpg

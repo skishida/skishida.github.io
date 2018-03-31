@@ -50,6 +50,7 @@ comments: true
 
 * ROHM OPEN HACK CHALLENGE 2017 特別賞受賞
 * CEATEC JAPAN 2017 ロームブースで展示
+* 平成28年度 電気通信大学 学生表彰 受賞
 
 ### Technique
 
