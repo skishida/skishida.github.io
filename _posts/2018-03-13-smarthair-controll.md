@@ -3,7 +3,8 @@ layout: post
 project: yes
 date: 2018-03-13
 title: "毛状インターフェイスの運動制御システムの提案と評価"
-achievements: "研究"
+excerpt: 研究会にて研究発表
+achievements: "研究会発表"
 tags: [Hardware, Research]
 comments: true
 ---
@@ -29,4 +30,5 @@ Smart Hair witch composed of a flexible and thin hair shaped actuator has the ad
 
 ### Related Links
 
-[ハプティクス研究委員会 第20回研究会](http://sighaptics.org/index.php?%E7%AC%AC20%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A)
+* [電気通信大学 野嶋研究室](http://www.nojilab.org/)
+* [ハプティクス研究委員会 第20回研究会](http://sighaptics.org/index.php?%E7%AC%AC20%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A)
