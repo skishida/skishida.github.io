@@ -6,6 +6,7 @@ title: "回路のお医者さん"
 excerpt: "電気に触れてインタラクションできる電子工作プラットフォーム"
 feature: /assets/img/2018/cd.jpg
 achievements: "IVRC 予選大会 参加"
+achieve_image: /assets/img/2018/cd-panel.jpg
 tags: [Hardware]
 comments: true
 ---
