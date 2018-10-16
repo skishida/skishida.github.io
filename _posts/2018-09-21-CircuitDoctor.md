@@ -31,6 +31,13 @@ comments: true
 
 ### System
 
+  {% capture images %}
+  /assets/img/2018/cd-arc1.jpg
+  /assets/img/2018/cd-arc2.jpg
+  /assets/img/2018/cd-arc3.jpg
+  {% endcapture %}
+  {% include gallery images=images caption="製作中の様子" cols=3 %}
+
 #### 配線デバイス
 
 内部を通る電流が多ければ多いほど震えるようになっています．最大で5V・1A程度，直流交流問わず流すことができます．
