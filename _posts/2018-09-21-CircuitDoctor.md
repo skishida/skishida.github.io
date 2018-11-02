@@ -75,8 +75,10 @@ comments: true
 ### Activity
 
 * IVRC2018 予選参加(書類審査通過)
+* GUGEN 2018 応募中
 
 ### Related Links
 
 * [IVRC 2018](http://ivrc.net/2018/)
 * [回路のお医者さん IVRC Archive](http://ivrc.net/archive/%E5%9B%9E%E8%B7%AF%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%932018/)
+* [回路のお医者さん - GUGEN2018](https://gugen.jp/?p=5328)
