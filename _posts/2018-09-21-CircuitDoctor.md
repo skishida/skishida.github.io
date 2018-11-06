@@ -20,7 +20,7 @@ comments: true
   ![](/assets/img/2018/cd.jpg)
 
   {% capture images %}
-  /assets/img/2018/cd-rev2.jpg
+  /assets/img/2018/cdrev2.jpg
   {% endcapture %}
   {% include gallery images=images caption="rev2" cols=1 %}
 
