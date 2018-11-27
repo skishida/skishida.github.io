@@ -17,12 +17,19 @@ comments: true
 
 ### Gallery
 
-  ![](/assets/img/2018/cd.jpg)
+  
+  {% capture images %}
+  /assets/img/2018/cd.jpg)
+  {% endcapture %}
+  {% include gallery images=images caption="IVRC" cols=1 %}
 
   {% capture images %}
   /assets/img/2018/cdrev2.jpg
   {% endcapture %}
   {% include gallery images=images caption="rev2" cols=1 %}
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fnSSHp3P29M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Description
 
