@@ -5,9 +5,9 @@ date: 2018-09-21
 title: "回路のお医者さん"
 excerpt: "電気に触れてインタラクションできる電子工作プラットフォーム"
 feature: /assets/img/2018/cd.jpg
-achievements: "IVRC 予選大会 参加"
+achievements: "IVRC 予選大会 参加, GUGEN 2018 共立電子産業賞受賞"
 achieve_image: /assets/img/2018/cd-panel.jpg
-tags: [Hardware]
+tags: [Hardware< Tangible, Interface]
 comments: true
 ---
 
@@ -29,6 +29,11 @@ comments: true
   {% include gallery images=images caption="rev2" cols=1 %}
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/fnSSHp3P29M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  {% capture images %}
+  /assets/img/2018/DSC02703.JPG
+  {% endcapture %}
+  {% include gallery images=images caption="GUEN 2018" cols=1 %}
 
 ### Description
 
@@ -81,7 +86,7 @@ comments: true
 ### Activity
 
 * IVRC2018 予選参加(書類審査通過)
-* GUGEN 2018 応募中
+* GUGEN 2018 共立電子産業賞受賞
 
 ### Related Links
 
