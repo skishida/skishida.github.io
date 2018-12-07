@@ -93,3 +93,5 @@ comments: true
 * [IVRC 2018](http://ivrc.net/2018/)
 * [回路のお医者さん IVRC Archive](http://ivrc.net/archive/%E5%9B%9E%E8%B7%AF%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%932018/)
 * [回路のお医者さん - GUGEN2018](https://gugen.jp/?p=5328)
+  * [GUGEN2018 受賞作品一覧](https://gugen.jp/2018contest-result)
+  * [電気通信大学 受賞・表彰報告ページ](https://www.uec.ac.jp/news/prize/2018/20181207_1489.html)
