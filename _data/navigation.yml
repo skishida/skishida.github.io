@@ -1,7 +1,15 @@
 # Site navigation links
 
+
+- title: Work Experience
+  url: /workexp/
+
+
 - title: Projects
   url: /projects/
 
 - title: Achievements
   url: /achievements/
+
+- title: Privacy Policy
+  url: /privacypolicy/

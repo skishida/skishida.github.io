@@ -10,8 +10,12 @@ comments: false
 
 * 2015年 私立 麻布高等学校 卒業
 * 2015年 国立 電気通信大学総合情報学科 入学
+* 2019年 国立 電気通信大学総合情報学科 卒業
+* 2019年 国立 電気通信大学大学院情報理工学研究科 情報学専攻 入学
 
 ## スキル
+
+* 職歴は[こちら](/workexp/)
 
 ### 電子工作
 
@@ -51,6 +55,15 @@ comments: false
 {% include gallery images=images cols=1 %}
 
 美しさってなんなのでしょうね。
+
+### CG
+
+{% capture images %}
+  /assets/img/blender.png
+{% endcapture %}
+{% include gallery images=images cols=1 %}
+
+想像を実世界で確認・共有可能なものにするという点では絵も工作もCGもよく似ています．
 
 ## [業績](/achievements)
 

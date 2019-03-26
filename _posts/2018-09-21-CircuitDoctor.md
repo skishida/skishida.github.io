@@ -7,7 +7,7 @@ excerpt: "電気に触れてインタラクションできる電子工作プラ�
 feature: /assets/img/2018/cd.jpg
 achievements: "IVRC 予選大会 参加, GUGEN 2018 共立電子産業賞受賞"
 achieve_image: /assets/img/2018/cd-panel.jpg
-tags: [HardwareTangible, Interface]
+tags: [Hardware, Tangible, Interface]
 comments: true
 ---
 
