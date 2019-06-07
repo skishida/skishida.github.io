@@ -87,6 +87,7 @@ comments: true
 
 * IVRC2018 予選参加(書類審査通過)
 * GUGEN 2018 共立電子産業賞受賞
+* 2019 IPA 未踏IT人材育成事業 
 
 ### Related Links
 
