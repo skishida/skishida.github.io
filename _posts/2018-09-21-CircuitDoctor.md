@@ -95,3 +95,5 @@ comments: true
 * [回路のお医者さん - GUGEN2018](https://gugen.jp/?p=5328)
   * [GUGEN2018 受賞作品一覧](https://gugen.jp/2018contest-result)
   * [電気通信大学 受賞・表彰報告ページ](https://www.uec.ac.jp/news/prize/2018/20181207_1489.html)
+* [2019年度未踏IT人材発掘・育成事業公募結果について：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/mitou/2019/koubokekka_index.html)
+  * 本作のコンセプトをよりブラッシュアップしたプロジェクト｢電気の様子が手に取るようにわかる回路学習ツールの開発｣が未踏事業に採択されました．
