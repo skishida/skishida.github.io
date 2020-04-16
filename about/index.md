@@ -34,7 +34,7 @@ comments: false
 
 ### 電子工作
 
-* 株式会社スイッチサイエンスにてアルバイト(2015/8~)
+* 株式会社スイッチサイエンスにてアルバイト(2015/8~2019/6)
   * ブログ執筆 : [kishida - スイッチサイエンス マガジン](http://mag.switch-science.com/author/kishida/)
   * 利用ドキュメントの作成 例 : [ESP-WROOM-02 Wi-Fi シールドの使い方 - スイッチサイエンスのおまけ](http://trac.switch-science.com/wiki/ESP-WROOM-02_AT)
   * Arduino向けサンプルプログラムの作成 例 : [AQM1248A Simple Library](https://github.com/SWITCHSCIENCE/samplecodes/tree/master/AQM1248A_breakout/Arduino/AQM1248A_lib)
@@ -85,14 +85,29 @@ comments: false
 <div class="post-list">
   {% for post in site.posts %} 
       {% if post.achievements != null %}
-  <ul>
-      <li style="background-image: url( {{post.achieve_image}} ); ">
-          <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-          <p>{{ post.excerpt }}</p>
-          <p>{{ post.achievements}}</p>
-          <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
-      </li>
-  </ul>
+      {% if post.url_force == null %}
+      <ul>
+          <li class="wow fadeIn" data-wow-duration="1.5s"
+              style="background-image: url( {{post.achieve_image}} ); ">
+              <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+              <p>{{ post.excerpt }}</p>
+              <p>{{ post.achievements}}</p>
+              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+          </li>
+      </ul>
+      {% else %}
+      <ul>
+          <li class="wow fadeIn" data-wow-duration="1.5s"
+              style="background-image: url( {{post.achieve_image}} ); ">
+              <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+              <p>{{ post.excerpt }}</p>
+              <p>{{ post.achievements}}</p>
+              <a href="{{post.url_force }}" class="btn zoombtn" text-align="right">Read More on external
+                  link </a>
+          </li>
+      </ul>
+
+      {% endif %}
       {% endif %}
   {% endfor %}
 </div>
