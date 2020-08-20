@@ -25,21 +25,11 @@ comments: false
 * 平成29年度 電気通信大学 学生表彰 (上記HackDayおよびROHCにて表彰)
 * IVRC2018 予選大会 参加
 * GUGEN2018 共立電子産業賞 受賞
-* 2019年度未踏IT人材発掘・育成事業 採択
+* 2019年度未踏IT人材発掘・育成事業 採択&スーパクリエータ認定
 * 大学内ものづくりコンテスト 大学奨励賞＆協賛企業賞受賞
 
-## スキル
 
 * 職歴は[こちら](/workexp/)
-
-### 電子工作
-
-* 株式会社スイッチサイエンスにてアルバイト(2015/8~2019/6)
-  * ブログ執筆 : [kishida - スイッチサイエンス マガジン](http://mag.switch-science.com/author/kishida/)
-  * 利用ドキュメントの作成 例 : [ESP-WROOM-02 Wi-Fi シールドの使い方 - スイッチサイエンスのおまけ](http://trac.switch-science.com/wiki/ESP-WROOM-02_AT)
-  * Arduino向けサンプルプログラムの作成 例 : [AQM1248A Simple Library](https://github.com/SWITCHSCIENCE/samplecodes/tree/master/AQM1248A_breakout/Arduino/AQM1248A_lib)
-  * 他、基板設計など
-  
 
 ## 趣味
 
