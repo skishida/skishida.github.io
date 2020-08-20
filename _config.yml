@@ -55,7 +55,7 @@ github-url:         skishida
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              skishida
+# steam:              skishida
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -66,6 +66,7 @@ flickr:            145991356@N08
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+contact:            https://forms.gle/qcqrrwuSvUDuuocY9
 
 # Gems
 gems:
