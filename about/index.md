@@ -9,9 +9,8 @@ comments: false
 ## 経歴
 
 * 2015年 私立 麻布高等学校 卒業
-* 2015年 国立 電気通信大学総合情報学科 入学
 * 2019年 国立 電気通信大学総合情報学科 卒業
-* 2019年 国立 電気通信大学大学院情報理工学研究科 情報学専攻 入学
+* 2021年 国立 電気通信大学大学院情報理工学研究科 情報学専攻 卒業
 
 ## 活動歴概要
 
@@ -26,10 +25,10 @@ comments: false
 * IVRC2018 予選大会 参加
 * GUGEN2018 共立電子産業賞 受賞
 * 2019年度未踏IT人材発掘・育成事業 採択&スーパクリエータ認定
-* 大学内ものづくりコンテスト 大学奨励賞＆協賛企業賞受賞
-
-
-* 職歴は[こちら](/workexp/)
+  * 大学内ものづくりコンテスト 大学奨励賞＆協賛企業賞受賞
+* UIST2020 [Poster発表](https://dl.acm.org/doi/10.1145/3379350.3416171)
+* クマ財団 クリエイター奨学金 採択([4期](https://kuma-foundation.org/student/shoki-kishida/))
+* 過去の職歴は[こちら](/workexp/)
 
 ## 趣味
 
@@ -89,7 +88,7 @@ comments: false
       <ul>
           <li class="wow fadeIn" data-wow-duration="1.5s"
               style="background-image: url( {{post.achieve_image}} ); ">
-              <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+              <a class="zoombtn" href="{{ post.url_force }}">{{ post.title }}</a>
               <p>{{ post.excerpt }}</p>
               <p>{{ post.achievements}}</p>
               <a href="{{post.url_force }}" class="btn zoombtn" text-align="right">Read More on external

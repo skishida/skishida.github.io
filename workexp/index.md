@@ -17,7 +17,7 @@ comments: false
     * 例 : [AQM1248A Simple Library](https://github.com/SWITCHSCIENCE/samplecodes/tree/master/AQM1248A_breakout/Arduino/AQM1248A_lib)
   * 他、基板設計など
 
-## 電気通信大学 ピクトラボ / チューター (2015/9~)
+## 電気通信大学 ピクトラボ / チューター (2015/9~2021/3)
   * [電気通信大学 高度ICT試作実験公開工房](http://www.pict-lab.uec.ac.jp/)
   * 3Dプリンタ，加工機等の整備や講習会の開催
 
