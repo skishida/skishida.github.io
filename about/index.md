@@ -34,38 +34,17 @@ comments: false
 
 ### 電子工作
 
-
-{% capture images %}
-  /assets/img/board.jpg
-{% endcapture %}
-{% include gallery images=images cols=1 %}
-
 手を動かすの楽しいですよね。
 
 ### お絵かき
-
-{% capture images %}
-  /assets/img/nenga2018.jpg
-{% endcapture %}
-{% include gallery images=images cols=1 %}
 
 思い描いているものを実現できるっていいですよね。
 
 ### 写真
 
-{% capture images %}
-  /assets/img/photo.jpg
-{% endcapture %}
-{% include gallery images=images cols=1 %}
-
 美しさってなんなのでしょうね。
 
 ### CG
-
-{% capture images %}
-  /assets/img/blender.png
-{% endcapture %}
-{% include gallery images=images cols=1 %}
 
 想像を実世界で確認・共有可能なものにするという点では絵も工作もCGもよく似ています．
 
